@@ -20,6 +20,7 @@
 
 ## Installation
 
+- `git clone repo`
 - `npm install`
 - `npm run dev`
 - `run live on localhost:3000`
