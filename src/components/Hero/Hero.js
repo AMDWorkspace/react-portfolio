@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
@@ -13,7 +12,6 @@ const Hero = (props) => (
           Coding and Web Development <br />
           Portfolio
         </SectionTitle>
-        <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
