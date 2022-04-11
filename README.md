@@ -22,7 +22,7 @@
 
 - `npm install`
 - `npm run dev`
-- `run localhost:3000`
+- `run live on localhost:3000`
 
 ## Screenshot
 
