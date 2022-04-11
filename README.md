@@ -1,24 +1,12 @@
-# 20 React: React Portfolio
+## Personal Portfolio
 
-## Table of Contents
+### [Live Site](https://jsmasterypro.com)
 
-- [Description](#description)
-- [User Story](#user-story)
-- [Screenshot](#screenshot)
-- [Deployed Portfolio](#deployed-portfolio)
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-## Description
+This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
 
-- This repository is a personal portfolio of work showcasing my skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights my strongest work as well as the thought processes behind it.
+In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
-## User Story
-
-- AS AN employer looking for candidates with experience building single-page applications
-- I WANT to view a potential employee's deployed React portfolio of work samples
-- SO THAT I can assess whether they're a good candidate for an open position
-
-## Screenshot
-
-## Deployed Portfolio
-
--
+Setup:
+- run ```npm i && npm start```
