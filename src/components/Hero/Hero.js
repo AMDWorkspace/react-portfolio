@@ -14,8 +14,7 @@ const Hero = (props) => (
         </SectionTitle>
       </LeftSection>
     </Section>
-  </>
-  
+  </> 
 );
 
 export default Hero;

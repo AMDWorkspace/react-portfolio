@@ -44,7 +44,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am currently a student at UNC Chapel Hill BootCamp. I am taking this course with an open mindset with the possibility of opening new doors and opportunity to expand my future career choices.  At the end of this program I am shooting to better understand the ins-and-outs of a full stack developer and start a new career!
+      I am currently a student at UNC Chapel Hill BootCamp. I am taking this course with an open mindset with the possibility of opening new doors and opportunity to expand my future career choices.  At the end of this program I am shooting to better understand the ins-and-outs of a full stack developer and begin a new career!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}></CarouselContainer>
       <SectionDivider />
