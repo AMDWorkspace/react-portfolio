@@ -26,6 +26,9 @@
 
 ## Screenshot
 
+![screenshot](https://github.com/AMDWorkspace/react-portfolio/blob/main/images/react-portfolio-screenshot-top.jpg)
+![screenshot](https://github.com/AMDWorkspace/react-portfolio/blob/main/images/react-portfolio-screenshot-bottom.jpg)
+
 ## Link to Deployment
 
 - https://amdworkspace.github.io/react-portfolio/
